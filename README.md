@@ -1,3 +1,3 @@
 # project_one
 
-11/30/2017: MD added this line for no good reason.
+choose your available spirits and mixers to find popular beverage recepies.
